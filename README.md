@@ -22,3 +22,5 @@ The Vrinda store wants to create an annual sales report for 2022 , So that the o
 -Highest selling category?
 
 -Percentage of Total Orders delivered
+
+Dashboard Intraction
