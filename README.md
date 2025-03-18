@@ -5,22 +5,29 @@ The Vrinda store wants to create an annual sales report for 2022 , So that the o
 - <a href="https://github.com/Muneerkhan07/Data-Analysis-Dashboard/commit/23078f5142c466ac9bca41c6d9977c7e3b58f0ec">Dataset</a>
 
 ## Questions (KPIs)
--Compare the sales and orders using single chart.
+*Compare the sales and orders using single chart.
 
--Which month got the highest sales and orders?
+*Which month got the highest sales and orders?
 
--Who purchased more - Men or Women?
+*Who purchased more - Men or Women?
 
--What are different order status in 2022?
+*What are different order status in 2022?
 
--List top 10 states contributingto the sales?
+*List top 10 states contributingto the sales?
 
--Relation between age and gender based on number of orders.
+*Relation between age and gender based on number of orders.
 
--Which Channel is contributing maximum to the sales?
+*Which Channel is contributing maximum to the sales?
 
--Highest selling category?
+*Highest selling category?
 
--Percentage of Total Orders delivered
+*Percentage of Total Orders delivered
 
 Dashboard Intraction <a href="https://github.com/Muneerkhan07/Data-Analysis-Dashboard/commit/23078f5142c466ac9bca41c6d9977c7e3b58f0ec">View Dashboard</a>
+
+## Process
+*Verify data for any missing values and anomalies, and sort out the same.
+*Made sure data is consistent and clean with respect to data type, data format and values used.
+*Created pivot tables according to the questions asked.
+*Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
